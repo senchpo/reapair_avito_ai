@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+asyncpg
+SQLAlchemy>=1.4
+alembic
+databases
+aioredis
+pydantic
+httpx
